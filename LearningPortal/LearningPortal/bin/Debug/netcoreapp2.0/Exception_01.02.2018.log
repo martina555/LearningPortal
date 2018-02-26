@@ -1,0 +1,33 @@
+----------------------------------------
+01.02.2018 6:17:16
+One or more compilation failures occurred:
+C:\Users\Martina\Desktop\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\Views\Lessons\Index.cshtml(45,27): error CS1061: 'Lesson' does not contain a definition for 'Finished' and no extension method 'Finished' accepting a first argument of type 'Lesson' could be found (are you missing a using directive or an assembly reference?)
+----------------------------------------
+01.02.2018 6:19:41
+One or more compilation failures occurred:
+C:\Users\Martina\Desktop\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\Views\Lessons\Index.cshtml(45,27): error CS1061: 'Lesson' does not contain a definition for 'Finished' and no extension method 'Finished' accepting a first argument of type 'Lesson' could be found (are you missing a using directive or an assembly reference?)
+----------------------------------------
+01.02.2018 6:19:59
+One or more compilation failures occurred:
+C:\Users\Martina\Desktop\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\Views\Lessons\Index.cshtml(45,27): error CS1061: 'Lesson' does not contain a definition for 'Finished' and no extension method 'Finished' accepting a first argument of type 'Lesson' could be found (are you missing a using directive or an assembly reference?)
+----------------------------------------
+01.02.2018 6:22:36
+One or more compilation failures occurred:
+C:\Users\Martina\Desktop\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\Views\Lessons\Index.cshtml(45,27): error CS1061: 'Lesson' does not contain a definition for 'Finished' and no extension method 'Finished' accepting a first argument of type 'Lesson' could be found (are you missing a using directive or an assembly reference?)
+----------------------------------------
+01.02.2018 6:22:39
+One or more compilation failures occurred:
+C:\Users\Martina\Desktop\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\Views\Lessons\Index.cshtml(45,27): error CS1061: 'Lesson' does not contain a definition for 'Finished' and no extension method 'Finished' accepting a first argument of type 'Lesson' could be found (are you missing a using directive or an assembly reference?)
+----------------------------------------
+01.02.2018 6:23:04
+One or more compilation failures occurred:
+C:\Users\Martina\Desktop\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\Views\Lessons\Index.cshtml(45,27): error CS1061: 'Lesson' does not contain a definition for 'Finished' and no extension method 'Finished' accepting a first argument of type 'Lesson' could be found (are you missing a using directive or an assembly reference?)
+----------------------------------------
+01.02.2018 7:07:13
+Unable to resolve service for type 'Microsoft.Extensions.Logging.Logger`1[Microsoft.Extensions.Logging.LoggerFactory]' while attempting to activate 'ItaW04.Controllers.HomeController'.
+----------------------------------------
+01.02.2018 7:08:13
+Unable to resolve service for type 'Microsoft.Extensions.Logging.Logger`1[Microsoft.Extensions.Logging.LoggerFactory]' while attempting to activate 'ItaW04.Controllers.HomeController'.
+----------------------------------------
+01.02.2018 7:13:26
+An error occurred while updating the entries. See the inner exception for details.

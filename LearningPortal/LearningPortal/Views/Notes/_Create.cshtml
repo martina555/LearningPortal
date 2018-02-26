@@ -1,0 +1,55 @@
+﻿@model LearningPortal.Models.Note
+
+<link href="~/summernote/summernote.css" rel="stylesheet" />
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 class="modal-title" id="exampleModalLabel">Nová poznámka</h3>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+
+
+
+                <form asp-action="Create" data-ajax="true" data-ajax-method="POST" data-ajax-mode="replace" data-ajax-update="#NotesList" data-ajax-begin="startProcessing()"data-ajax-success="hideModal(); endProcessing()">
+                    <div class="form-group">
+                        <label asp-for="Name" class="control-label"></label>
+                        <input asp-for="Name" class="form-control name" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Deadline" class="control-label"></label>
+                        @*<input asp-for="Deadline" class="form-control deadline" id="datepicker" />*@
+                        <input name="Deadline" class="form-control deadline datepicker" />
+                        <span asp-validation-for="Deadline" class="text-danger"></span>
+                    </div>
+
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                  
+                    <textarea id="summernote" name="TextArea"></textarea>
+
+                    <div class="form-group">
+                        <input type="button" value="Close" class="btn btn-secondary" data-dismiss="modal" />
+                        <input type="submit" value="Save changes" class="btn btn-primary" />
+                    </div>
+
+                    
+                </form>
+
+
+            </div>
+            <div class="modal-footer">
+                @*<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button type="submit" class="btn btn-primary" >Save changes</button>*@
+            </div>
+        </div>
+    </div>
+</div>
+
+
+

@@ -1,0 +1,133 @@
+﻿@model LearningPortal.Models.HomeBigModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+
+@section banner { 
+
+<div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="6000">
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+            <li data-target="#myCarousel" data-slide-to="3"></li>
+        </ol>
+        <div class="carousel-inner" role="listbox">
+            <div class="item active">
+                <img src="~/images/Engagement-Blog-Wide-372388456-2000x540.jpg" alt="ASP.NET" class="img-responsive" />
+               
+                <div class="carousel-caption" role="option">
+                    <p>
+                        Improve your skills with our courses.
+                        @Model.TotalCourses courses are now available.
+                         <a asp-controller="Courses" asp-action="Index" asp-route-id="" class="btn btn-secondary " style="background-color: #00b0ff ; ">See all courses</a>
+                    </p>
+                </div>
+            </div>
+            <div class="item">
+                <img src="~/images/int-header-private-label-marketing.jpg" alt="Package Management" class="img-responsive" />
+                <div class="carousel-caption" role="option">
+                    <p>
+                        Improve your skills with our courses.
+                        @Model.TotalCourses courses are now available.
+                        <a asp-controller="Courses" asp-action="Index" asp-route-id="" class="btn btn-secondary " style="background-color: #00b0ff  ; ">See all courses</a>
+                    </p>
+                </div>
+            </div>
+            <div class="item">
+                <img src="~/images/Agent-Rewards-Banner-322241804.jpg" alt="Visual Studio" class="img-responsive" />
+                <div class="carousel-caption" role="option">
+                    <p>
+                        Improve your skills with our courses.
+                        @Model.TotalCourses courses are now available.
+                        <a asp-controller="Courses" asp-action="Index" asp-route-id="" class="btn btn-secondary " style="background-color: #00b0ff ; ">See all courses</a>
+                    </p>
+                </div>
+            </div>
+            <div class="item">
+                <img src="~/images/demo-footer_423238567-2000x540.png" alt="Package Management" class="img-responsive" />
+                <div class="carousel-caption" role="option">
+                    <p>
+                        Improve your skills with our courses.
+                        @Model.TotalCourses courses are now available.
+                        <a asp-controller="Courses" asp-action="Index" asp-route-id="" class="btn btn-secondary " style="background-color: #00b0ff ; ">See all courses</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+        <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+
+}
+
+@*------------------------------------ admin ------------------------------------------------------------------*@
+@if (!User.IsInRole("Admin"))
+{
+    <div class="row" style="padding-top: 20px">
+        <div class="col-md-12">
+            <form asp-action="CreateAdmin">
+                <div class="alert alert-warning">
+                    <input type="submit" value="Vytvořit Administátora" class="btn btn-xs btn-warning pull-right" />
+                    <strong>Vytvořit Administrátora</strong>
+                </div>
+            </form>
+        </div>
+    </div>
+}
+else
+{
+    <div class="row" style="padding-top: 20px">
+        <div class="col-md-12">
+            <form asp-action="CreateAdmin">
+                <div class="alert alert-success" role="alert">
+                    <strong>Administrátor byl úspěšně vytvořen.</strong>
+                </div>
+            </form>
+        </div>
+    </div>
+
+}
+
+
+
+
+@*------------------------------------ kurzy ------------------------------------------------------------------*@
+<div class="row">
+    @foreach (var item in Model.Courses)
+    {
+        <div class="card" style="width: 20rem; margin-top:30px; margin-right: 10px; margin-left: 15px;">
+            <img class="card-img-top" src="~/images/coffee-tablet-headphones-work-163187.jpeg" alt="Card image cap">
+            <div class="card-body">
+                <h4 class="card-title"> @item.Name</h4>
+                <p>@item.NumberOfLessons Lessons</p>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+
+                <form asp-controller="Courses" asp-action="IsStudent">
+                    @if (!User.IsInRole("StudentCourse" + item.Id))
+                    {
+                    <a asp-controller="Courses" asp-action="Details" asp-route-id="@item.Id" class="btn btn-secondary btn-sm" role="button" style="background-color: royalblue; ">See more</a>
+                    <input type="hidden" name="id" value="@item.Id" />
+                    <input type="submit" value="Start study" class="btn btn-secondary btn-sm" style="background-color: #00c853; " /> @*akce isstudent*@
+                    @*<a asp-controller="Courses"  asp-action="IsStudent" asp-route-id="@item.Id" class="btn btn-secondary btn-sm" role="button" style="background-color: #00c853; ">Start Study</a>*@
+                    }
+                    else
+                    {
+                        <a asp-controller="Courses" asp-action="Details" asp-route-id="@item.Id" class="btn btn-secondary btn-sm btn-block" role="button" style="background-color: royalblue; ">Continue studying</a>
+                    }
+                </form>
+            </div>
+        </div>
+    }
+</div>
+
+    
+

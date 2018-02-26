@@ -1,0 +1,25 @@
+﻿@model LearningPortal.Models.HomeBigModel
+
+@foreach (var item in Model.Courses)
+{
+    <div class="card" style="width: 20rem; margin-top:30px; margin-left: 10px; margin-left: 15px;">
+        <img class="card-img-top" src="~/images/coffee-tablet-headphones-work-163187.jpeg" alt="Card image cap">
+        <div class="card-body">
+            <h4 class="card-title"> @item.Name</h4>
+            <p>@item.NumberOfLessons Lessons</p>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <form asp-controller="Courses" asp-action="IsStudent">
+                @if (!User.IsInRole("StudentCourse" + item.Id))
+                {
+                    <a asp-controller="Courses" asp-action="Details" asp-route-id="@item.Id" class="btn btn-secondary btn-sm" role="button" style="background-color: royalblue; ">See more</a>
+                        <input type="hidden" name="id" value="@item.Id" />
+                        <input type="submit" value="Start study" class="btn btn-secondary btn-sm" style="background-color: #00c853; " /> @*akce isstudent*@
+                }
+                else
+                {
+                    <a asp-controller="Courses" asp-action="Details" asp-route-id="@item.Id" class="btn btn-secondary btn-sm btn-block" role="button" style="background-color: royalblue; ">Continue studying</a>
+                }
+            </form>
+        </div>
+    </div>
+}

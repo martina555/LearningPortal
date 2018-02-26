@@ -1,0 +1,12 @@
+C:\Users\Martina\Desktop\25.2 prejmenovani\LearningPortal\LearningPortal\bin\Release\netcoreapp2.0\LearningPortal.deps.json
+C:\Users\Martina\Desktop\25.2 prejmenovani\LearningPortal\LearningPortal\bin\Release\netcoreapp2.0\LearningPortal.runtimeconfig.json
+C:\Users\Martina\Desktop\25.2 prejmenovani\LearningPortal\LearningPortal\bin\Release\netcoreapp2.0\LearningPortal.runtimeconfig.dev.json
+C:\Users\Martina\Desktop\25.2 prejmenovani\LearningPortal\LearningPortal\bin\Release\netcoreapp2.0\LearningPortal.dll
+C:\Users\Martina\Desktop\25.2 prejmenovani\LearningPortal\LearningPortal\bin\Release\netcoreapp2.0\LearningPortal.pdb
+C:\Users\Martina\Desktop\25.2 prejmenovani\LearningPortal\LearningPortal\obj\Release\netcoreapp2.0\LearningPortal.csprojResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\25.2 prejmenovani\LearningPortal\LearningPortal\obj\Release\netcoreapp2.0\LearningPortal.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Desktop\25.2 prejmenovani\LearningPortal\LearningPortal\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina\Desktop\25.2 prejmenovani\LearningPortal\LearningPortal\obj\Release\netcoreapp2.0\LearningPortal.AssemblyInfoInputs.cache
+C:\Users\Martina\Desktop\25.2 prejmenovani\LearningPortal\LearningPortal\obj\Release\netcoreapp2.0\LearningPortal.AssemblyInfo.cs
+C:\Users\Martina\Desktop\25.2 prejmenovani\LearningPortal\LearningPortal\obj\Release\netcoreapp2.0\LearningPortal.dll
+C:\Users\Martina\Desktop\25.2 prejmenovani\LearningPortal\LearningPortal\obj\Release\netcoreapp2.0\LearningPortal.pdb

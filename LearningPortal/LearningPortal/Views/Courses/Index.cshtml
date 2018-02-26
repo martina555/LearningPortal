@@ -1,0 +1,54 @@
+﻿@model LearningPortal.Models.HomeBigModel
+
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+@{
+    ViewData["Title"] = "Courses";
+    }
+
+<h2 style="padding-top:20px">Courses</h2>
+    <!--Vyhledávání-->
+<div class="col-md-12">
+    <div class="row">
+        <input class="form-control search" placeholder="Search" />
+    </div>
+    <div class="row" style="padding-top:20px">
+        @if (User.IsInRole("Admin"))
+        {
+            <p>
+                <a asp-action="Create" class="btn btn-secondary btn-sm" role="button" style="background-color: #2979ff; "> New Course</a>
+            </p>
+        }
+    </div>
+</div>
+
+<div class="col-md-12">
+    <div class="row" id="CoursesList">
+        <!--Seznam kurzů-->
+        @{await Html.RenderPartialAsync("_CoursesList", Model);}
+    </div>
+</div>
+
+
+@section Scripts{ 
+<script src="https://cdn.jsdelivr.net/npm/jquery-ajax-unobtrusive@3.2.4/jquery.unobtrusive-ajax.min.js"></script>
+<script src="~/js/Search.js"></script>
+    <script>
+
+        //search
+        function doneTyping() {
+            $.ajax({
+                type: "GET",
+                url: '@Url.Action("Search")',
+                data: { search: $('.search').val() },
+                success: function (result) {
+                    $('#CoursesList').html(result);
+                },
+                error: function () {
+                    alert("Error");
+                }
+            });
+        }
+    </script>
+}

@@ -1,0 +1,27 @@
+﻿@using LearningPortal.Views.Manage
+@using Microsoft.AspNetCore.Authorization
+@using Microsoft.AspNetCore.Identity
+
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+@inject RoleManager<IdentityRole> RoleManager
+
+@{
+    var hasExternalLogins = (await SignInManager.GetExternalAuthenticationSchemesAsync()).Any();
+}
+        <ul class="nav nav-pills nav-stacked" >
+            @if (User.IsInRole("Admin"))
+            {
+                <li class="@ManageNavPages.AllUsersNavClass(ViewContext)"><a asp-action="AllUsers"><strong>All users</strong></a></li>
+            }
+            <li class="@ManageNavPages.MyCoursesNavClass(ViewContext)"><a asp-action="MyCourses"><strong>My courses</strong></a></li>
+
+            <li class="@ManageNavPages.IndexNavClass(ViewContext)"><a asp-action="Index">Profile</a></li>
+            <li class="@ManageNavPages.ChangePasswordNavClass(ViewContext)"><a asp-action="ChangePassword">Password</a></li>
+            @if (hasExternalLogins)
+            {
+                <li class="@ManageNavPages.ExternalLoginsNavClass(ViewContext)"><a asp-action="ExternalLogins">External logins</a></li>
+            }
+            <li class="@ManageNavPages.TwoFactorAuthenticationNavClass(ViewContext)"><a asp-action="TwoFactorAuthentication">Two-factor authentication</a></li>
+        </ul>
+

@@ -1,0 +1,286 @@
+﻿@using Microsoft.AspNetCore.Authorization
+@using Microsoft.AspNetCore.Identity
+
+@model LearningPortal.Models.DetailsCourseAndCourseuser
+
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+@inject RoleManager<IdentityRole> RoleManager
+
+@{
+    ViewData["Title"] = Model.Course.Name;
+}
+@section banner {
+
+    <div class="img-responsive ">
+        <img src="~/images/job_detail_benner.jpg" alt="ASP.NET" />
+    </div>
+}
+
+@*---------------------------------------tlacitka----------------------------------------------------------------*@
+<div class="row" style="padding-top: 20px; padding-bottom: 10px">
+    <div class="col-md-6">
+        <h2>@Html.DisplayFor(model => model.Course.Name)</h2>
+        @if (User.IsInRole("Admin"))
+            {
+            <a asp-action="Edit" asp-route-id="@Model.Course.Id" class="btn btn-sm"><i class="fa fa-pencil-square-o fa-2x" aria-hidden="true" title="Edit"></i></a>
+                <a asp-action="Delete" asp-route-id="@Model.Course.Id" class="btn btn-sm"><i class="fa fa-trash-o fa-2x" aria-hidden="true" title="Delete"></i></a>
+        }
+    </div>
+    <div class="col-md-4" style="padding-top: 20px; padding-bottom: 10px">
+        @if (!User.IsInRole("StudentCourse" + Model.Course.Id))
+        {
+            <form asp-action="IsStudent">
+                <input type="hidden" name="id" value="@Model.Course.Id" />
+                <input type="submit" value="Start study" class="btn btn-secondary btn-md" style="background-color: #00c853; " />
+            </form>
+        }
+    </div>
+    <div class="col-md-2" style="padding-top: 20px; padding-bottom: 10px">
+        <a asp-action="Index" class="btn btn-secondary btn-sm" role="button" style="background-color: lightsteelblue; ">Back to courses</a>
+    </div>
+</div>@*---------------------------------------------------------------------------------------------------------*@
+
+@*---------------------------------------popisek a dalsi detaily testu----------------------------------------------------------*@
+<div class="row">
+    <p>
+        @Html.DisplayFor(model => model.Course.Description)
+    </p>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <p><strong>Created:</strong>   @Html.DisplayFor(model => model.Course.Created)</p>
+    </div>
+    <div class="col-md-3">
+        <p><strong>Number of lessons:</strong>  @Html.DisplayFor(model => model.Course.NumberOfLessons)</p>
+    </div>
+    <div class="col-md-3">
+        <strong>@Html.DisplayNameFor(model => model.CourseUser.NumberOfFinishedLessons): </strong>@Html.DisplayFor(model => model.CourseUser.NumberOfFinishedLessons)
+    </div>
+    @*--------------------výsledk testu------------------------*@
+    <div class="col-md-3">
+            @if(Model.CourseUser.ResultPercent >=80)
+            {
+                <div style="color:green; font-size:x-large"><strong>Test result: </strong>@Html.DisplayFor(model => model.CourseUser.ResultPercent) %</div>
+            }
+            else if (Model.CourseUser.ResultPercent >= 0 && Model.CourseUser.NumberOfTests !=0)
+            {
+                <div style="color:red;"><strong>Test result: </strong>@Html.DisplayFor(model => model.CourseUser.ResultPercent) %</div>
+            }
+        </div>
+</div>
+<hr />@*---------------------------------------------------------------------------------------------------------*@
+
+
+    @*----------------------------- stítek dokončené lekce a kurz---------------------------------------------------*@
+    @if (Model.CourseUser.Finished == true)
+    {
+        <div class="row">
+            <div class="col-md-12" style=" margin-top:20px;">
+                <div class="alert alert-success" role="alert">
+                    <strong>KURZ DOKONČEN !</strong> Gratulujeme Váš výsledek byl @Model.CourseUser.ResultPercent %
+                </div>
+            </div>
+        </div>
+    }
+    else if (Model.Course.NumberOfLessons == Model.CourseUser.NumberOfFinishedLessons && Model.CourseUser.NumberOfFinishedLessons != 0 && Model.CourseUser.NumberOfTests == 0)
+    {
+        <div class="row">
+            <div class="col-md-12" style=" margin-top:20px;">
+                <div class="alert alert-success" role="alert">
+                    <strong>Gratulujeme máte hotové všechny lekce!</strong> Můžete přejít k otázkám a testu :-)
+                </div>
+            </div>
+        </div>
+    }
+    else if (Model.CourseUser.Finished == false && Model.CourseUser.NumberOfTests > 0)
+    {
+        <div class="row">
+            <div class="col-md-12" style=" margin-top:20px;">
+                <div class="alert alert-danger" role="alert">
+                    <strong>Test nesplněn!</strong> Váš výsledek byl @Model.CourseUser.ResultPercent %. Před opakováním testu doporučujeme projít si znovu testové otázky.
+                </div>
+            </div>
+        </div>
+    }
+
+
+    @*---------------------------------------------------  lekce ---------------------------------------------------*@
+    <div class="row">
+        <div class="col-md-3" style=" margin-top:20px;">
+            @* -------- create new -------*@
+            @if (User.IsInRole("Admin"))
+            {
+                <a asp-controller="Lessons" asp-action="Create" asp-route-id="@Model.Course.Id" class="btn btn-secondary btn-sm" role="button" style="background-color: #2979ff; ">New Lesson</a>
+                <br />
+                <br />
+            }
+        </div>
+    </div>
+
+    @*-------------------ZOBRAZENÍ LEKCÍ - LESSON USER--------------------------------------------------*@
+    <div class="row">
+@foreach (var item in Model.Course.Lessons)
+{
+            <div class="card " style="width: 15rem; margin-top:15px;  margin-left: 20px; margin-right: 20px;">
+                <img class="card-img-top" src="~/images/businesslessonsfamousleaders.jpg" alt="Card image cap" />
+                <div class="card-body">
+                    @if (User.IsInRole("Admin") || User.IsInRole("StudentCourse" + Model.Course.Id))
+                    {
+                        @if (User.IsInRole("FinishedLesson" + item.Id))
+                        {
+                            <a asp-controller="Lessons" asp-action="DetailsFinishedLesson" asp-route-id="@item.Id" class=" btn btn-outline-primary btn-sm" role="button" style="border-color: #2979ff;"><strong>@Html.DisplayFor(model => item.Name)</strong></a>
+                        }
+                        else
+                        {
+                            <a asp-controller="Lessons" asp-action="Details" asp-route-id="@item.Id" class=" btn btn-outline-primary btn-sm" role="button" style="border-color: #2979ff;"><strong>@Html.DisplayFor(model => item.Name)</strong></a>
+                        }
+
+                        <p class="card-text text-center" style="font-size:13px; padding-top:10px">Doba trvání: 5:30</p>
+                        @if (User.IsInRole("Admin"))
+                    {
+                            <a asp-action="Edit" asp-controller="Lessons" asp-route-id="@item.Id" class="btn btn-sm"><i class="fa fa-pencil-square-o fa-2x" aria-hidden="true" title="Edit"></i></a>
+                            <a asp-action="Delete" asp-controller="Lessons" asp-route-id="@item.Id" class="btn btn-sm"><i class="fa fa-trash-o fa-2x" aria-hidden="true" title="Delete"></i></a>
+                        }
+                        @if (User.IsInRole("FinishedLesson" + item.Id))
+                        {
+                            <div><span class="label label-success" style="font-size:x-small">Dokončeno</span></div>
+                        }
+                    }
+                    else
+                    {
+                        <form asp-controller="Lessons" asp-action="Details" asp-route-id="@item.Id">
+                            <button class="btn btn-outline-primary btn-sm" disabled role="button" title="pro zobrazení lekcí musíte začít studovat" style="border-color: #2979ff;">
+                                <h6 class="card-title"> @Html.DisplayFor(model => item.Name)</h6>
+                            </button>
+                        </form>
+                    }
+                </div>
+            </div>
+        }
+        </div>
+<hr />
+    @*-----------------------------------------------------------------------------------------------------------*@
+
+
+
+    @*------------------------------------------ users ----------------------------------------------*@
+@if (User.IsInRole("Admin"))
+{
+<div class="row">
+    <div class="col-md-4">
+        <div class="form-group">
+            <a href="javascript:void(0)" class="btn btn-primary showLessons" style=" margin-top:20px;">Show Students</a>
+        </div>
+    </div>
+</div>
+<div class="alllessons" style="display:none">
+        <div class="row">
+            <div class="col-md-12" style=" margin-top:20px;">
+                @foreach (var user in Model.Users)
+                {
+                    @Html.DisplayFor(model => user.Email)<br />
+                }
+            </div>
+        </div>
+</div>
+}
+
+    @*----------------------------------po dokončení lekcí ----------------------------------------------*@
+    @if (Model.Course.NumberOfLessons == Model.CourseUser.NumberOfFinishedLessons && Model.CourseUser.NumberOfFinishedLessons != 0 @*|| User.IsInRole("Admin")*@)
+    {
+
+        @*------------------------------------------ otazky ----------------------------------------------*@
+
+        <h3>Questions</h3>
+        <div class="row">
+            <div class="col-md-3" style=" margin-top:10px;">
+                @* -------- create new -------*@
+                @if (User.IsInRole("Admin"))
+                {
+                    <a asp-controller="Questions" asp-action="Create" asp-route-id="@Model.Course.Id" class="btn btn-secondary btn-sm" role="button" style="background-color: #2979ff; ">New Question</a>
+                }
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12" style=" margin-top:20px;">
+                <div class="alert alert-info" role="alert">
+                    <strong>Zopakujte si:</strong><br />
+                    @foreach (var item in Model.Course.Questions)
+                    {
+                        if (User.IsInRole("Admin"))
+                        {
+                            <a asp-controller="Questions" asp-action="Details" asp-route-id="@item.Id">@Html.DisplayFor(modelItem => item.Name)<br /></a>
+                        }
+                        else
+                        {
+                            @Html.DisplayFor(modelItem => item.Name)<br />
+                        }
+                    }
+                </div>
+            </div>
+        </div>
+
+        @*------------------------------------------ test ----------------------------------------------*@
+        <div class="row">
+            <div class="col-md-12" style=" margin-top:50px;">
+                @if (Model.CourseUser.NumberOfTests == 0)
+                {
+                    <a asp-controller="Tests" asp-action="Test" asp-route-id="@Model.Course.Id" class="btn btn-secondary btn-md" role="button" style="background-color: #0091ea ; ">Spustit test</a>
+                }
+                else
+                {
+                    <a asp-controller="Tests" asp-action="Test" asp-route-id="@Model.Course.Id" class="btn btn-secondary btn-md" role="button" style="background-color: #0091ea ; ">Spustit test znovu</a>
+                }
+            </div>
+        </div>
+
+
+    }
+    @*-------------------  stítek musite absolvovat vsechny lekce-----------------------------------------------------*@
+    else if (User.IsInRole("StudentCourse" + Model.Course.Id) && Model.Course.NumberOfLessons != Model.CourseUser.NumberOfFinishedLessons)
+    {
+        <div class="row">
+            <div class="col-md-12" style=" margin-top:60px;">
+                <div class="alert alert-warning" role="alert">
+                    Pro zobrazení otázek a testu musíte absolvovat všechny lekce.
+                </div>
+            </div>
+        </div>
+    }
+    @*-------------------  stítek start study to view lessons-----------------------------------------------------*@
+    else if (!User.IsInRole("StudentCourse" + Model.Course.Id) && !User.IsInRole("Admin") && Model.Course.NumberOfLessons != Model.CourseUser.NumberOfFinishedLessons)
+    {
+        <div class="row">
+            <div class="col-md-12" style=" margin-top:70px;">
+                <div class="alert alert-warning" role="alert">
+                    <form asp-action="IsStudent">
+                        <input type="hidden" name="id" value="@Model.Course.Id" />
+                        <input type="submit" value="Start study" class="btn btn-secondary btn-md" style="background-color:#00c853;  " />
+                        Start study to view lessons.
+                    </form>
+                </div>
+            </div>
+        </div>
+    }
+
+
+
+
+
+
+
+    @section Scripts{
+        <script src="~/lib/jquery/dist/jquery.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/jquery-ajax-unobtrusive@3.2.4/jquery.unobtrusive-ajax.min.js"></script>
+
+        <script src="~/js/HideShow.js"></script>
+
+
+    }
+
+
+
+

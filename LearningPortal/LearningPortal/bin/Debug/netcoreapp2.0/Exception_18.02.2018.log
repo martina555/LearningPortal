@@ -1,0 +1,5 @@
+----------------------------------------
+18.02.2018 18:58:33
+One or more compilation failures occurred:
+lnvrrqcj.z1z(433,1189): error CS1031: Type expected
+lnvrrqcj.z1z(433,1242): error CS1061: 'Lesson' does not contain a definition for 'CourseName' and no extension method 'CourseName' accepting a first argument of type 'Lesson' could be found (are you missing a using directive or an assembly reference?)

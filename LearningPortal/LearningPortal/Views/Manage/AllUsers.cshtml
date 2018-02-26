@@ -1,0 +1,82 @@
+﻿@using Microsoft.AspNetCore.Authorization
+@using Microsoft.AspNetCore.Identity
+@model LearningPortal.Models.ViewSpecificModels.AllUsers
+
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+@inject RoleManager<IdentityRole> RoleManager
+@{
+    ViewData["Title"] = "All Users";
+    ViewData.AddActivePage(ManageNavPages.AllUsers);
+}
+
+
+<h4>Studenti</h4>
+
+<table class="table">
+    <thead>
+        <tr>
+                <th>
+                    User name
+                </th>
+                <th>
+                    Email confirmed
+                </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        
+    @foreach (var item in Model.Students)
+    {
+
+        <tr>
+            <td>
+                <a asp-controller="Manage" asp-action="StudentDetail" asp-route-id="@item.Id">@item.UserName</a>
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmailConfirmed)
+            </td>
+            <td>
+                @*<a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                 <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                 <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>*@
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+
+<h4 style="margin-top:50px">Uživatelé kteří nestudují</h4>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                User name
+            </th>
+            <th>
+                Email confirmed
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.NonStudents)
+        {
+            <tr>
+                <td>
+                    <a asp-controller="Manage" asp-action="StudentDetail" asp-route-id="@item.Id">@item.UserName</a>
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EmailConfirmed)
+                </td>
+                <td>
+                    @*<a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>*@
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,42 @@
+﻿
+/*--------------- navbar -------------------------------*/
+.navbar-collapse a {
+    color: #efefef ;
+    text-decoration: none;
+}
+
+.navbar-collapse.collapse a:hover, a:focus {
+    color: #0000ff ;
+    text-decoration: none;
+}
+/*--------------- footer -------------------------------*/
+.panel-footer a {
+    color: #a7adba;
+    text-decoration: none;
+}
+.panel-footer h3, address, p {
+    color: #a7adba ;
+    text-decoration: none;
+}
+.panel-footer a:hover, a:focus {
+        color: blanchedalmond  ;
+        text-decoration: none;
+    }
+
+/*--------------- body -------------------------------*/
+.body {
+    padding-bottom: 0px;
+}
+.container.body-content p {
+    color: darkslategrey;
+}
+.carousel-caption p {
+    color: #efefef;
+}
+
+#logoutForm button {
+    color: #efefef !important;
+    text-decoration: none;
+}
+
+

@@ -1,0 +1,182 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no " />
+
+    <title>@ViewData["Title"] - LearningPortal</title>
+
+    <environment include="Development">
+        
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+        <!-- Font awesome -->
+        <link href="~/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+        
+
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+        <link rel="stylesheet" href="~/css/site.css" />
+        @* MAIN START *@
+        <link href="~/css/main.css" rel="stylesheet" />
+
+        @*@RenderSection("Mojecss", required: false)*@
+
+        @*další způsob*@
+        @*<link href="../css/main.css" rel="stylesheet" />*@
+        @*<link href="@Url.Content("~/css/main.css")" rel="stylesheet" />*@
+        @* MAIN END *@
+    </environment>
+    <environment exclude="Development">
+        <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/css/bootstrap.min.css"
+              asp-fallback-href="~/lib/bootstrap/dist/css/bootstrap.min.css"
+              asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute" />
+        <link rel="stylesheet" href="~/css/site.min.css" asp-append-version="true" />
+    </environment>
+    <style> 
+        html {
+            position: relative;
+            min-height: 100%;
+        }
+        body {
+            /* Margin bottom by footer height */
+            margin-bottom: 300px;
+        }
+        .footer {
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            /* Set the fixed height of the footer here */
+            height: 200px;
+            background-color: #f5f5f5;
+        }
+    </style>
+    @RenderSection("additionalCss", required: false)
+</head>
+<body class="body">
+    @* HEADER START *@
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-fixed-top navbar-dark" style="background-color: #3f51b5 ;">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a asp-area="" asp-controller="Home" asp-action="Index" class="navbar-brand">LearningPortal</a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
+                        <li><a asp-area="" asp-controller="Home" asp-action="About">About</a></li>
+                        <li><a asp-area="" asp-controller="Home" asp-action="Contact">Contact</a></li>
+                        <li><a asp-area="" asp-controller="Courses" asp-action="Index">Courses</a></li>
+                        <li><a asp-area="" asp-controller="Manage" asp-action="MyCourses"><strong>My courses</strong></a></li>
+                        <li><a asp-area="" asp-controller="Notes" asp-action="Index"><strong>My notes</strong></a></li>
+                        @if (User.IsInRole("Admin"))
+                        {
+                        <li><a asp-area="" asp-controller="Manage" asp-action="AllUsers"><strong>All users</strong></a></li>
+                        }
+                    </ul>
+                    @await Html.PartialAsync("_LoginPartial")
+                </div>
+            </div>
+        </nav>
+    </header>
+    @* HEADER END *@
+
+
+    @* MAIN START *@
+    <main>
+        @RenderSection("banner", false)
+        <div class="container body-content">
+            @RenderBody()
+            <hr />
+
+
+        </div>
+    </main>
+    @* MAIN END *@
+
+
+
+    @* FOOTER START *@
+    <footer  class="footer">
+
+        <div class="panel-footer " style="background-color:#303f9f; ">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4">
+                        <h3>Get started</h3>
+                        <a asp-area="" asp-controller="Home" asp-action="Index">Home</a> <br/>
+                        <a asp-area="" asp-controller="Courses" asp-action="Index">Courses</a>
+                    </div>
+                    <div class="col-md-4">
+                        <h3>Contact us</h3>
+                        <address>
+                            One Microsoft Way<br />
+                            Redmond, WA 98052-6399<br />
+                            <abbr title="Phone">P:</abbr>
+                            425.555.0100
+                        </address>
+                    </div>
+
+                    <div class="col-md-4">
+                        <h3>Support</h3>
+                        <address>
+                            <strong>Support:</strong> <a href="mailto:Support@example.com">Support@example.com</a><br />
+                            <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
+                        </address>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="row" style="background-color:#0e1d79  ;">
+            <div class="col-md-12" style="text-align:center;">
+                <p style="padding-top: 10px">&copy; 2017 - LearningPortal</p>
+            </div>
+        </div>
+    </footer>
+    @* FOOTER END *@
+
+
+
+
+
+
+
+
+    <environment include="Development">
+        <script src="~/lib/jquery/dist/jquery.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+
+        <script src="~/js/site.js" asp-append-version="true"></script>
+    </environment>
+    <environment exclude="Development">
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-2.2.0.min.js"
+                asp-fallback-src="~/lib/jquery/dist/jquery.min.js"
+                asp-fallback-test="window.jQuery"
+                crossorigin="anonymous"
+                integrity="sha384-K+ctZQ+LL8q6tP7I94W+qzQsfRV2a+AfHIi9k8z8l9ggpc8X+Ytst4yBo/hH+8Fk">
+        </script>
+        <script src="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/bootstrap.min.js"
+                asp-fallback-src="~/lib/bootstrap/dist/js/bootstrap.min.js"
+                asp-fallback-test="window.jQuery && window.jQuery.fn && window.jQuery.fn.modal"
+                crossorigin="anonymous"
+                integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa">
+        </script>
+        <script src="~/js/site.min.js" asp-append-version="true"></script>
+
+        <!-- Optional JavaScript -->
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+    </environment>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

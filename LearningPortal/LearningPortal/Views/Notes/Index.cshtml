@@ -1,0 +1,107 @@
+﻿@model IEnumerable<LearningPortal.Models.Note>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+@section AdditionalCss{
+<link href="~/js/jQueryUI/jquery-ui.min.css" rel="stylesheet" />
+<link href="~/js/jQueryUI/jquery-ui.structure.min.css" rel="stylesheet" />
+<link href="~/js/jQueryUI/jquery-ui.theme.min.css" rel="stylesheet" />
+}
+
+<h2 style="padding-top:20px">My Notes</h2>
+
+<div class="row" style="padding-top:20px">
+    <div class="col-md-10">
+        <button type="button" class="btn btn-primary createModalLink" data-toggle="modal" data-target="#exampleModal">
+            New note
+        </button>
+    </div>
+</div>
+<div class="row" style="padding-top:20px">
+    <div class="col-md-10">
+        <input class="form-control search" placeholder="Search" />
+    </div>
+</div>
+
+
+@*---------------------------------------hláška poznamka ulozena----------------------------------------------------------------*@
+<div class="alert alert-success" id="SuccesfullySaved" style="display:none; margin-top:20px">
+    <strong>Poznámka úspěšně uložena!</strong> 
+</div>
+
+<hr/>
+
+@*---------------------------------------poznamky----------------------------------------------------------------*@
+<div id="NotesList">
+@{ await Html.RenderPartialAsync("_NotesList", Model);}
+</div>
+
+
+
+
+
+@*---------------------------------------modal----------------------------------------------------------------*@
+
+<!-- Modal -->
+@{ await Html.RenderPartialAsync("_Create", new LearningPortal.Models.Note());}
+
+@*---------------------------------------scripty----------------------------------------------------------------*@
+
+@section Scripts{
+  <script src="~/summernote/summernote.js"></script>
+@*<script src="~/lib/jquery/dist/jquery.js"></script>*@
+<script src="https://cdn.jsdelivr.net/npm/jquery-ajax-unobtrusive@3.2.4/jquery.unobtrusive-ajax.min.js"></script>
+<script src="~/js/jQueryUI/jquery-ui.min.js"></script>
+<script src="~/js/Modal.js"></script>
+<script src="~/js/Search.js"></script>
+<script>
+
+    function startProcessing() {
+        $('#NotesList').addClass('processing');
+    }
+
+    function endProcessing() {
+        $('#NotesList').removeClass('processing');
+        $('.name').val(""); // to mi vzdy otevre prazdny modal
+        $('.created').val("");
+        $('#summernote').summernote("code", "");
+
+        $('#SuccesfullySaved').show(250);
+        var delay = 2000;
+        setTimeout(function (){
+            $('#SuccesfullySaved').hide(250);
+        }, delay);
+    }
+
+    //summernote
+    $(document).ready(function () {
+        $('#summernote').summernote();
+
+    });
+
+        //search
+        function doneTyping() {
+            $.ajax({
+                type: "GET",
+                url: '@Url.Action("Search")' ,
+                data: { search: $('.search').val() },
+                success: function (result) {
+                    $('#NotesList').html(result);
+                },
+                error: function () {
+                    alert("Error");
+                }
+            });
+        }
+
+        //datepicker
+        $(function () { 
+            $(".datepicker").datepicker({
+                dateFormat: "dd/mm/yy",
+                firstDay: 1
+            });
+        });
+</script>
+}

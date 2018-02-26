@@ -1,0 +1,73 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model LearningPortal.Models.LessonUserAndLesson
+
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+@{
+    ViewData["Title"] = Model.Lesson.Name;
+}
+@section banner {
+
+    <div class="img-responsive ">
+        <img src="~/images/Professionals-having-a-meeting-1920x450.jpg" />
+    </div>
+}
+
+@if (SignInManager.IsSignedIn(User))
+{
+    <h2>@Html.DisplayFor(model => model.Lesson.Name)</h2>
+        @if (User.IsInRole("Admin"))
+        {
+            <a asp-controller="Lessons" asp-action="Edit" asp-route-id="@Model.Lesson.Id" class="btn btn-sm"><i class="fa fa-pencil-square-o fa-2x" aria-hidden="true" title="Edit"></i></a>
+            <a asp-controller="Lessons" asp-action="Delete" asp-route-id="@Model.Lesson.Id" class="btn btn-sm"><i class="fa fa-trash-o fa-2x" aria-hidden="true" title="Delete"></i></a>
+        }
+
+        <div>
+            <h4>What will you learn</h4>
+            <p>
+                @Html.DisplayFor(model => model.Lesson.Description)
+            </p>
+
+            <form asp-controller="Lessons" asp-action="CompleteLesson" method="post">
+                <input type="hidden" asp-for="@Model.Lesson.Id" />
+                <div class="row">
+                    <div class="col-md-10">
+                        Course Name
+                        <a asp-controller="Courses" asp-action="Details" asp-route-id="@Model.Lesson.Course.Id">@Html.DisplayFor(model => model.Lesson.Course.Name)</a>
+                    </div>
+                    <hr />
+                </div>
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="alert alert-success" role="alert">
+                            <strong>Gratulujeme!</strong> Tato lekce byla úspěšně dokončena :-)
+                            <a asp-controller="Courses" asp-action="Details" asp-route-id="@Model.Lesson.CourseId" class="btn btn-secondary btn-xs pull-right " style="background-color: #00c853; ">Zpět na kurz</a>
+                        </div>
+                    </div>
+                </div>
+            </form>
+            <hr />
+
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe class="embed-responsive-item" src="@Html.DisplayFor(model => model.Lesson.Video)" allowfullscreen></iframe>
+            </div>
+        </div>
+}
+else
+{
+    <div>
+        <p>
+            Please
+            <a asp-controller="Account" asp-action="Login" asp-route-id="">login </a>
+            or
+            <a asp-controller="Account" asp-action="Register" asp-route-id="">register </a>
+            to view lesson details.
+        </p>
+    </div>
+
+}
+
+
+

@@ -1,0 +1,54 @@
+﻿@model LearningPortal.Models.Question
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Question</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Course)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Course.Name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Answers)
+        </dt>
+        <dd>
+            @foreach (var item in Model.Answers)
+            {
+                if (item.Verity == true)
+                {
+                    <a asp-controller="Answers" asp-action="Edit" asp-route-id="@item.Id"><div style="color:green"><strong>@Html.DisplayFor(modelItem => item.Name)<br /></strong></div></a> 
+                }
+                else
+                {
+                    <a asp-controller="Answers" asp-action="Edit" asp-route-id="@item.Id">@Html.DisplayFor(modelItem => item.Name)<br /></a>
+                }
+            }
+            <a asp-controller="Answers" asp-action="Create" asp-route-id="@Model.Id" class="btn btn-primary" style="margin-top:15px; background-color:royalblue; border-color:royalblue">New answer</a>
+        </dd>
+    </dl>
+</div>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-success">Edit Question</a>
+    <a asp-action="Details" asp-controller="Courses" asp-route-id="@Model.Course.Id" class="btn btn-default" >Back to Course</a>
+</div>
+
+
+@section Scripts{ 
+<script src="~/js/Modal.js"></script>
+
+}

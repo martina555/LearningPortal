@@ -1,0 +1,516 @@
+C:\Users\Martina\Documents\ITA-04\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina\Documents\ITA-04\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina\Documents\ITA-04\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina\Documents\ITA-04\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Documents\ITA-04\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Documents\ITA-04\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina\Documents\ITA-04\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Documents\ITA-04\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina\Documents\ITA-04\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina\Documents\ITA-04\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina\Documents\ITA-04\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Documents\ITA-04\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Documents\ITA-04\zkoušky\ItaW04 implementace vzhledu\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina\Documents\ITA-04\zkoušky\ItaW04 implementace vzhledu\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina\Documents\ITA-04\zkoušky\ItaW04 implementace vzhledu\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina\Documents\ITA-04\zkoušky\ItaW04 implementace vzhledu\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Documents\ITA-04\zkoušky\ItaW04 implementace vzhledu\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Documents\ITA-04\zkoušky\ItaW04 implementace vzhledu\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Documents\ITA-04\zkoušky\ItaW04 implementace vzhledu\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina\Documents\ITA-04\zkoušky\ItaW04 implementace vzhledu\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina\Documents\ITA-04\zkoušky\ItaW04 implementace vzhledu\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina\Documents\ITA-04\zkoušky\ItaW04 implementace vzhledu\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Documents\ITA-04\zkoušky\ItaW04 implementace vzhledu\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Documents\ITA-04\zkoušky\ItaW04 implementace vzhledu\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina\Documents\Jizdyatankovani\Ita\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina\Documents\Jizdyatankovani\Ita\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina\Documents\Jizdyatankovani\Ita\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina\Documents\Jizdyatankovani\Ita\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Documents\Jizdyatankovani\Ita\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Documents\Jizdyatankovani\Ita\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina\Documents\Jizdyatankovani\Ita\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Documents\Jizdyatankovani\Ita\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina\Documents\Jizdyatankovani\Ita\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina\Documents\Jizdyatankovani\Ita\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina\Documents\Jizdyatankovani\Ita\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Documents\Jizdyatankovani\Ita\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\28.11\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina\Desktop\28.11\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina\Desktop\28.11\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina\Desktop\28.11\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\28.11\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\28.11\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\28.11\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Desktop\28.11\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina\Desktop\28.11\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina\Desktop\28.11\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina\Desktop\28.11\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\28.11\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+E:\29.11\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+E:\29.11\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+E:\29.11\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+E:\29.11\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+E:\29.11\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+E:\29.11\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+E:\29.11\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+E:\29.11\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\29.11\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+E:\29.11\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+E:\29.11\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+E:\29.11\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\29.11\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina\Desktop\29.11\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina\Desktop\29.11\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina\Desktop\29.11\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\29.11\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\29.11\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\29.11\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Desktop\29.11\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina\Desktop\29.11\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina\Desktop\29.11\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina\Desktop\29.11\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\29.11\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina Vlková\Desktop\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina Vlková\Desktop\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina Vlková\Desktop\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina Vlková\Desktop\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina Vlková\Desktop\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina Vlková\Desktop\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina Vlková\Desktop\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina Vlková\Desktop\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina Vlková\Desktop\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina Vlková\Desktop\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina Vlková\Desktop\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina Vlková\Desktop\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+E:\4.12 8.15\30.11. 16.58\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+E:\4.12 8.15\30.11. 16.58\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+E:\4.12 8.15\30.11. 16.58\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+E:\4.12 8.15\30.11. 16.58\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+E:\4.12 8.15\30.11. 16.58\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+E:\4.12 8.15\30.11. 16.58\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+E:\4.12 8.15\30.11. 16.58\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+E:\4.12 8.15\30.11. 16.58\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\4.12 8.15\30.11. 16.58\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+E:\4.12 8.15\30.11. 16.58\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+E:\4.12 8.15\30.11. 16.58\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+E:\4.12 8.15\30.11. 16.58\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+E:\4.12 8.15\4.12.17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+E:\4.12 8.15\4.12.17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+E:\4.12 8.15\4.12.17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+E:\4.12 8.15\4.12.17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+E:\4.12 8.15\4.12.17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+E:\4.12 8.15\4.12.17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+E:\4.12 8.15\4.12.17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+E:\4.12 8.15\4.12.17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\4.12 8.15\4.12.17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+E:\4.12 8.15\4.12.17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+E:\4.12 8.15\4.12.17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+E:\4.12 8.15\4.12.17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina Vlková\Desktop\5.12 8.30\5.12. 8.30\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina Vlková\Desktop\5.12 8.30\5.12. 8.30\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina Vlková\Desktop\5.12 8.30\5.12. 8.30\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina Vlková\Desktop\5.12 8.30\5.12. 8.30\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina Vlková\Desktop\5.12 8.30\5.12. 8.30\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina Vlková\Desktop\5.12 8.30\5.12. 8.30\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina Vlková\Desktop\5.12 8.30\5.12. 8.30\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina Vlková\Desktop\5.12 8.30\5.12. 8.30\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina Vlková\Desktop\5.12 8.30\5.12. 8.30\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina Vlková\Desktop\5.12 8.30\5.12. 8.30\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina Vlková\Desktop\5.12 8.30\5.12. 8.30\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina Vlková\Desktop\5.12 8.30\5.12. 8.30\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\5.12 8.30\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina\Desktop\5.12 8.30\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina\Desktop\5.12 8.30\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina\Desktop\5.12 8.30\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\5.12 8.30\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\5.12 8.30\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\5.12 8.30\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Desktop\5.12 8.30\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina\Desktop\5.12 8.30\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina\Desktop\5.12 8.30\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina\Desktop\5.12 8.30\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\5.12 8.30\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina Vlková\Desktop\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina Vlková\Desktop\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina Vlková\Desktop\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina Vlková\Desktop\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina Vlková\Desktop\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina Vlková\Desktop\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina Vlková\Desktop\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina Vlková\Desktop\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina Vlková\Desktop\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina Vlková\Desktop\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina Vlková\Desktop\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina Vlková\Desktop\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina\Desktop\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina\Desktop\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina\Desktop\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Desktop\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina\Desktop\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina\Desktop\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina\Desktop\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+E:\7.12 7.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+E:\7.12 7.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+E:\7.12 7.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+E:\7.12 7.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+E:\7.12 7.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+E:\7.12 7.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+E:\7.12 7.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+E:\7.12 7.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\7.12 7.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+E:\7.12 7.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+E:\7.12 7.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+E:\7.12 7.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina Vlková\Desktop\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina Vlková\Desktop\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina Vlková\Desktop\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina Vlková\Desktop\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina Vlková\Desktop\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina Vlková\Desktop\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina Vlková\Desktop\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina Vlková\Desktop\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina Vlková\Desktop\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina Vlková\Desktop\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina Vlková\Desktop\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina Vlková\Desktop\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\7.12. 17.00\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina\Desktop\7.12. 17.00\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina\Desktop\7.12. 17.00\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina\Desktop\7.12. 17.00\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\7.12. 17.00\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\7.12. 17.00\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\7.12. 17.00\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Desktop\7.12. 17.00\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina\Desktop\7.12. 17.00\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina\Desktop\7.12. 17.00\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina\Desktop\7.12. 17.00\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\7.12. 17.00\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina\Desktop\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina\Desktop\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina\Desktop\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Desktop\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina\Desktop\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina\Desktop\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina\Desktop\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina\Desktop\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina\Desktop\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina\Desktop\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Desktop\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina\Desktop\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina\Desktop\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina\Desktop\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina\Desktop\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina\Desktop\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina\Desktop\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Desktop\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina\Desktop\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina\Desktop\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina\Desktop\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina Vlková\Desktop\11.12. 9.20\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina Vlková\Desktop\11.12. 9.20\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina Vlková\Desktop\11.12. 9.20\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina Vlková\Desktop\11.12. 9.20\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina Vlková\Desktop\11.12. 9.20\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina Vlková\Desktop\11.12. 9.20\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina Vlková\Desktop\11.12. 9.20\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina Vlková\Desktop\11.12. 9.20\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina Vlková\Desktop\11.12. 9.20\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina Vlková\Desktop\11.12. 9.20\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina Vlková\Desktop\11.12. 9.20\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina Vlková\Desktop\11.12. 9.20\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina\Desktop\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina\Desktop\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina\Desktop\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Desktop\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina\Desktop\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina\Desktop\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina\Desktop\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\13.12 5.44\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina\Desktop\13.12 5.44\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina\Desktop\13.12 5.44\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina\Desktop\13.12 5.44\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\13.12 5.44\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\13.12 5.44\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\13.12 5.44\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Desktop\13.12 5.44\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina\Desktop\13.12 5.44\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina\Desktop\13.12 5.44\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina\Desktop\13.12 5.44\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\13.12 5.44\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+E:\13.12 5.44\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+E:\13.12 5.44\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+E:\13.12 5.44\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+E:\13.12 5.44\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+E:\13.12 5.44\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+E:\13.12 5.44\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+E:\13.12 5.44\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+E:\13.12 5.44\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\13.12 5.44\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+E:\13.12 5.44\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+E:\13.12 5.44\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+E:\13.12 5.44\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina Vlková\Desktop\13.12 5.44\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina Vlková\Desktop\13.12 5.44\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina Vlková\Desktop\13.12 5.44\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina Vlková\Desktop\13.12 5.44\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina Vlková\Desktop\13.12 5.44\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina Vlková\Desktop\13.12 5.44\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina Vlková\Desktop\13.12 5.44\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina Vlková\Desktop\13.12 5.44\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina Vlková\Desktop\13.12 5.44\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina Vlková\Desktop\13.12 5.44\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina Vlková\Desktop\13.12 5.44\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina Vlková\Desktop\13.12 5.44\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\13.12 16.15\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina\Desktop\13.12 16.15\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina\Desktop\13.12 16.15\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina\Desktop\13.12 16.15\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\13.12 16.15\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\13.12 16.15\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\13.12 16.15\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Desktop\13.12 16.15\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina\Desktop\13.12 16.15\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina\Desktop\13.12 16.15\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina\Desktop\13.12 16.15\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\13.12 16.15\11.12. 17.00\10.12. 9.00\9.12 15.27\8.12\7.12 12.30\6.12\5.12. 17.00\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Documents\ITA-04\aktualni projekt\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina\Documents\ITA-04\aktualni projekt\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina\Documents\ITA-04\aktualni projekt\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina\Documents\ITA-04\aktualni projekt\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Documents\ITA-04\aktualni projekt\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Documents\ITA-04\aktualni projekt\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina\Documents\ITA-04\aktualni projekt\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Documents\ITA-04\aktualni projekt\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina\Documents\ITA-04\aktualni projekt\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina\Documents\ITA-04\aktualni projekt\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina\Documents\ITA-04\aktualni projekt\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Documents\ITA-04\aktualni projekt\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\3.1. uprava kodu\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina\Desktop\3.1. uprava kodu\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina\Desktop\3.1. uprava kodu\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina\Desktop\3.1. uprava kodu\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\3.1. uprava kodu\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\3.1. uprava kodu\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\3.1. uprava kodu\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Desktop\3.1. uprava kodu\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina\Desktop\3.1. uprava kodu\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina\Desktop\3.1. uprava kodu\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina\Desktop\3.1. uprava kodu\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\3.1. uprava kodu\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\3.1. 20. 56 uprava kodu\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina\Desktop\3.1. 20. 56 uprava kodu\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina\Desktop\3.1. 20. 56 uprava kodu\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina\Desktop\3.1. 20. 56 uprava kodu\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\3.1. 20. 56 uprava kodu\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\3.1. 20. 56 uprava kodu\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\3.1. 20. 56 uprava kodu\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Desktop\3.1. 20. 56 uprava kodu\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina\Desktop\3.1. 20. 56 uprava kodu\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina\Desktop\3.1. 20. 56 uprava kodu\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina\Desktop\3.1. 20. 56 uprava kodu\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\3.1. 20. 56 uprava kodu\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\Vzdelavaci portal - VSTS\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina\Desktop\Vzdelavaci portal - VSTS\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina\Desktop\Vzdelavaci portal - VSTS\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina\Desktop\Vzdelavaci portal - VSTS\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\Vzdelavaci portal - VSTS\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\Vzdelavaci portal - VSTS\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\Vzdelavaci portal - VSTS\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Desktop\Vzdelavaci portal - VSTS\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina\Desktop\Vzdelavaci portal - VSTS\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina\Desktop\Vzdelavaci portal - VSTS\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina\Desktop\Vzdelavaci portal - VSTS\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\Vzdelavaci portal - VSTS\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\Vzdelavaci portal\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina\Desktop\Vzdelavaci portal\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina\Desktop\Vzdelavaci portal\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina\Desktop\Vzdelavaci portal\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\Vzdelavaci portal\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Desktop\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina\Desktop\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina\Desktop\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina\Desktop\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina Vlková\Desktop\poznamky 29.1. 8.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina Vlková\Desktop\poznamky 29.1. 8.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina Vlková\Desktop\poznamky 29.1. 8.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina Vlková\Desktop\poznamky 29.1. 8.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina Vlková\Desktop\poznamky 29.1. 8.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina Vlková\Desktop\poznamky 29.1. 8.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina Vlková\Desktop\poznamky 29.1. 8.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina Vlková\Desktop\poznamky 29.1. 8.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina Vlková\Desktop\poznamky 29.1. 8.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina Vlková\Desktop\poznamky 29.1. 8.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina Vlková\Desktop\poznamky 29.1. 8.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina Vlková\Desktop\poznamky 29.1. 8.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+F:\poznamky 30. 8.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+F:\poznamky 30. 8.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+F:\poznamky 30. 8.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+F:\poznamky 30. 8.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+F:\poznamky 30. 8.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+F:\poznamky 30. 8.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+F:\poznamky 30. 8.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+F:\poznamky 30. 8.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\poznamky 30. 8.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+F:\poznamky 30. 8.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+F:\poznamky 30. 8.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+F:\poznamky 30. 8.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\30.1.20.27\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina\Desktop\30.1.20.27\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina\Desktop\30.1.20.27\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina\Desktop\30.1.20.27\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\30.1.20.27\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\30.1.20.27\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\30.1.20.27\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Desktop\30.1.20.27\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina\Desktop\30.1.20.27\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina\Desktop\30.1.20.27\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina\Desktop\30.1.20.27\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\30.1.20.27\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina\Desktop\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina\Desktop\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina\Desktop\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Desktop\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina\Desktop\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina\Desktop\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina\Desktop\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina Vlková\Desktop\Nová složka\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina Vlková\Desktop\Nová složka\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina Vlková\Desktop\Nová složka\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina Vlková\Desktop\Nová složka\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina Vlková\Desktop\Nová složka\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina Vlková\Desktop\Nová složka\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina Vlková\Desktop\Nová složka\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina Vlková\Desktop\Nová složka\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina Vlková\Desktop\Nová složka\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina Vlková\Desktop\Nová složka\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina Vlková\Desktop\Nová složka\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina Vlková\Desktop\Nová složka\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\Nová složka12.19\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina\Desktop\Nová složka12.19\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina\Desktop\Nová složka12.19\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina\Desktop\Nová složka12.19\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\Nová složka12.19\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\Nová složka12.19\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\Nová složka12.19\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Desktop\Nová složka12.19\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina\Desktop\Nová složka12.19\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina\Desktop\Nová složka12.19\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina\Desktop\Nová složka12.19\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\Nová složka12.19\1.2 6.00\SecretManager\Vzdelavaci portal\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\Vzdelavaci portal 1.2\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina\Desktop\Vzdelavaci portal 1.2\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina\Desktop\Vzdelavaci portal 1.2\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina\Desktop\Vzdelavaci portal 1.2\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\Vzdelavaci portal 1.2\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\Vzdelavaci portal 1.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\Vzdelavaci portal 1.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Desktop\Vzdelavaci portal 1.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina\Desktop\Vzdelavaci portal 1.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina\Desktop\Vzdelavaci portal 1.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina\Desktop\Vzdelavaci portal 1.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\Vzdelavaci portal 1.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\Vzdelavaci portal 18.2\Vzdelavaci portal 1.2\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina\Desktop\Vzdelavaci portal 18.2\Vzdelavaci portal 1.2\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina\Desktop\Vzdelavaci portal 18.2\Vzdelavaci portal 1.2\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina\Desktop\Vzdelavaci portal 18.2\Vzdelavaci portal 1.2\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\Vzdelavaci portal 18.2\Vzdelavaci portal 1.2\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\Vzdelavaci portal 18.2\Vzdelavaci portal 1.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\Vzdelavaci portal 18.2\Vzdelavaci portal 1.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Desktop\Vzdelavaci portal 18.2\Vzdelavaci portal 1.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina\Desktop\Vzdelavaci portal 18.2\Vzdelavaci portal 1.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina\Desktop\Vzdelavaci portal 18.2\Vzdelavaci portal 1.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina\Desktop\Vzdelavaci portal 18.2\Vzdelavaci portal 1.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\Vzdelavaci portal 18.2\Vzdelavaci portal 1.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina Vlková\Desktop\Vzdelavaci portal 18.2\Vzdelavaci portal 1.2\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina Vlková\Desktop\Vzdelavaci portal 18.2\Vzdelavaci portal 1.2\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina Vlková\Desktop\Vzdelavaci portal 18.2\Vzdelavaci portal 1.2\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina Vlková\Desktop\Vzdelavaci portal 18.2\Vzdelavaci portal 1.2\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina Vlková\Desktop\Vzdelavaci portal 18.2\Vzdelavaci portal 1.2\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina Vlková\Desktop\Vzdelavaci portal 18.2\Vzdelavaci portal 1.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina Vlková\Desktop\Vzdelavaci portal 18.2\Vzdelavaci portal 1.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina Vlková\Desktop\Vzdelavaci portal 18.2\Vzdelavaci portal 1.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina Vlková\Desktop\Vzdelavaci portal 18.2\Vzdelavaci portal 1.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina Vlková\Desktop\Vzdelavaci portal 18.2\Vzdelavaci portal 1.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina Vlková\Desktop\Vzdelavaci portal 18.2\Vzdelavaci portal 1.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina Vlková\Desktop\Vzdelavaci portal 18.2\Vzdelavaci portal 1.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\Vzdelavaci portal 21.2\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina\Desktop\Vzdelavaci portal 21.2\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina\Desktop\Vzdelavaci portal 21.2\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina\Desktop\Vzdelavaci portal 21.2\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\Vzdelavaci portal 21.2\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\Vzdelavaci portal 21.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\Vzdelavaci portal 21.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Desktop\Vzdelavaci portal 21.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina\Desktop\Vzdelavaci portal 21.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina\Desktop\Vzdelavaci portal 21.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina\Desktop\Vzdelavaci portal 21.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\Vzdelavaci portal 21.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina Vlková\Desktop\Vzdelavaci portal 21.2\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina Vlková\Desktop\Vzdelavaci portal 21.2\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina Vlková\Desktop\Vzdelavaci portal 21.2\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina Vlková\Desktop\Vzdelavaci portal 21.2\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina Vlková\Desktop\Vzdelavaci portal 21.2\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina Vlková\Desktop\Vzdelavaci portal 21.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina Vlková\Desktop\Vzdelavaci portal 21.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina Vlková\Desktop\Vzdelavaci portal 21.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina Vlková\Desktop\Vzdelavaci portal 21.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina Vlková\Desktop\Vzdelavaci portal 21.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina Vlková\Desktop\Vzdelavaci portal 21.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina Vlková\Desktop\Vzdelavaci portal 21.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\Vzdelavaci portal 22.2\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina\Desktop\Vzdelavaci portal 22.2\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina\Desktop\Vzdelavaci portal 22.2\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina\Desktop\Vzdelavaci portal 22.2\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\Vzdelavaci portal 22.2\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\Vzdelavaci portal 22.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\Vzdelavaci portal 22.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Desktop\Vzdelavaci portal 22.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina\Desktop\Vzdelavaci portal 22.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina\Desktop\Vzdelavaci portal 22.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina\Desktop\Vzdelavaci portal 22.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\Vzdelavaci portal 22.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\Nová složka\23.2\Vzdelavaci portal 22.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csprojResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\Nová složka\23.2\Vzdelavaci portal 22.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Desktop\Nová složka\23.2\Vzdelavaci portal 22.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Martina\Desktop\Nová složka\23.2\Vzdelavaci portal 22.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfoInputs.cache
+C:\Users\Martina\Desktop\Nová složka\23.2\Vzdelavaci portal 22.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.AssemblyInfo.cs
+C:\Users\Martina\Desktop\Nová složka\23.2\Vzdelavaci portal 22.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\Nová složka\23.2\Vzdelavaci portal 22.2\ItaW04\ItaW04\obj\Debug\netcoreapp2.0\ItaW04.pdb
+C:\Users\Martina\Desktop\Nová složka\23.2\Vzdelavaci portal 22.2\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.deps.json
+C:\Users\Martina\Desktop\Nová složka\23.2\Vzdelavaci portal 22.2\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.json
+C:\Users\Martina\Desktop\Nová složka\23.2\Vzdelavaci portal 22.2\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.runtimeconfig.dev.json
+C:\Users\Martina\Desktop\Nová složka\23.2\Vzdelavaci portal 22.2\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.dll
+C:\Users\Martina\Desktop\Nová složka\23.2\Vzdelavaci portal 22.2\ItaW04\ItaW04\bin\Debug\netcoreapp2.0\ItaW04.pdb

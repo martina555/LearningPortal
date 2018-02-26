@@ -1,0 +1,55 @@
+﻿@model LearningPortal.Models.TestBigModel
+
+@{
+    ViewData["Title"] = "Test";
+}
+
+<div style="margin-top:50px"><h2>Test</h2></div>
+
+
+<hr />
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="Test">
+            @*<dl class="row">*@
+                @*@for (int q = 0; q < Model.TestQuestions.Count; q++)*@
+                    @for (int q = 0; q < 3; q++)
+                    {
+                        <dl class="row" style="padding-top:20px">
+                            @*@Model.TestQuestions[30].Answers[5].*@
+                            <input type="hidden" asp-for="@Model.TestQuestions[q].Question.CourseId" />
+                            <input type="hidden" asp-for="@Model.TestQuestions[q].Question.Id" />
+
+                            <dt class="col-sm-4">@Model.TestQuestions[q].Question.Name</dt>
+                            <dd class="col-sm-8">
+                                @for (int a = 0; a < Model.TestQuestions[q].Answers.Count; a++)
+                                {
+
+                                    <label>
+                                        <input asp-for="@Model.TestQuestions[q].Question.SelectedAnswer" type="radio" value="@Model.TestQuestions[q].Answers[a].Id" /> @Model.TestQuestions[q].Answers[a].Name
+                                    </label>
+
+                                    @*@if (Model.TestQuestions[q].Answers[a].Verity && User.IsInRole("Admin"))
+                                    {
+                                        <span class="label label-success">Pravdivá</span>
+                                    }*@
+                                    <br />
+                                }
+                            </dd>
+
+                        </dl>
+
+
+                }
+            @*</dl>*@
+            <div class="form-group">
+                <input type="submit" value="Send" class="btn btn-primary" />
+            </div>
+            </form>
+</div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

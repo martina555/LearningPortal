@@ -1,0 +1,13 @@
+﻿@model TestResult
+
+@{
+    ViewData["Title"] = "Test";
+}
+
+<h2 style="color:red">Je nám Líto, ale test byl neúspěšný :-(</h2>
+
+<h4>Dosáhli jste: <strong>@Model.Percent %</strong> , potřebujete minimálně 80 %</h4>
+
+<p>Zkuste to příště znovu!</p>
+
+<a asp-controller="Courses" asp-action="Details" asp-route-id="@Model.CourseId" class="btn btn-secondary btn-sm" role="button" style="background-color: royalblue; ">Zpět na kurz</a>

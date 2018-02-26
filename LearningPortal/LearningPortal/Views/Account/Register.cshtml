@@ -1,0 +1,97 @@
+﻿@model RegisterViewModel
+
+@inject SignInManager<ApplicationUser> SignInManager
+@{
+    ViewData["Title"] = "Register";
+}
+<div class="row">
+    <div class="col-md-6 ">
+        <h2 style="padding-top:20px">@ViewData["Title"]</h2>
+    </div>
+</div>
+
+        <div class="row">
+            <div class="col-md-6 ">
+                <section>
+                    <h4 >Use your account</h4>
+                    <hr />
+                    @{
+                        var loginProviders = (await SignInManager.GetExternalAuthenticationSchemesAsync()).ToList();
+                        if (loginProviders.Count == 0)
+                        {
+                            <div>
+                                <p>
+                                    There are no external authentication services configured. See <a href="https://go.microsoft.com/fwlink/?LinkID=532715">this article</a>
+                                    for details on setting up this ASP.NET application to support logging in via external services.
+                                </p>
+                            </div>
+                        }
+                        else
+                        {
+                            <form asp-action="ExternalLogin" asp-route-returnurl="@ViewData["ReturnUrl"]" method="post" class="form-horizontal">
+                                <div>
+                                    <p>
+                                        @foreach (var provider in loginProviders)
+                                        {
+                                            if (provider.Name == "Google")
+                                            {
+                                                <button type="submit" name="provider" value="@provider.Name" class="btn btn-block btn- btn-secondary" style="background-color: #d34836; color:white; font-size:medium;">
+                                                    <i class="fa fa-google-plus " aria-hidden="true" style="background-color:#d34836; color:white; "></i> Sign in with Google
+                                                </button>
+                                            }
+                                            else if (provider.Name == "Facebook")
+                                            {
+                                                <button type="submit" name="provider" value="@provider.Name" class="btn btn-block btn- btn-secondary" style="background-color: #3b5998; color:white; font-size:medium;">
+                                                    <i class="fa fa-facebook-official " aria-hidden="true" style="background-color:#3b5998; color:white; "></i> Sign in with Facebook
+                                                </button>
+                                            }
+                                            else if (provider.Name == "Microsoft")
+                                            {
+                                                <button type="submit" name="provider" value="@provider.Name" class="btn btn-block btn- btn-secondary" style="background-color: #00a1f1; color:white; font-size:medium;">
+                                                    <i class="fa fa-windows " aria-hidden="true" style="background-color:#00a1f1; color:white; "></i> Sign in with Microsoft
+                                                </button>
+                                            }
+                                        }
+
+                                    </p>
+                                </div>
+                            </form>
+                        }
+                    }
+                </section>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6">
+                <form asp-route-returnUrl="@ViewData["ReturnUrl"]" >
+                    <h4 style="text-align:center">Or create a new account</h4>
+                    <hr />
+                    <div asp-validation-summary="All" class="text-danger"></div>
+                    <div class="form-group">
+                        <label asp-for="Email"></label>
+                        <input asp-for="Email" class="form-control" required type="email" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Password"></label>
+                        <input asp-for="Password" class="form-control" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="ConfirmPassword"></label>
+                        <input asp-for="ConfirmPassword" class="form-control" />
+                        <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                    </div>
+                    <button type="submit" class="btn btn-secondary" style="background-color: #3f51b5">Register</button>
+                </form>
+            </div>
+        </div>
+
+
+
+
+
+        @section Scripts {
+            @await Html.PartialAsync("_ValidationScriptsPartial")
+        }

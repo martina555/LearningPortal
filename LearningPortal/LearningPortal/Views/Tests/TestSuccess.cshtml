@@ -1,0 +1,11 @@
+﻿@model TestResult
+
+@{
+    ViewData["Title"] = "Test";
+}
+
+<h2 style="color:green">Úspěšně jste složili test ! Gratulujeme :-)</h2>
+
+<h4>Dosáhli jste: @Model.Percent %, to je skvělý výsledek!</h4>
+
+<a asp-controller="Courses" asp-action="Details" asp-route-id="@Model.CourseId" class="btn btn-secondary btn-sm" role="button" style="background-color: royalblue; ">Zpět na kurz</a>

@@ -1,0 +1,87 @@
+﻿@model IEnumerable<LearningPortal.Models.Note>
+
+@foreach (var item in Model)
+{
+    <div style="border:outset; padding:20px; margin-bottom:50px">
+        <div class="row" style="padding-left:10px">
+            <div class="col-md-12">
+                <h4><strong>@Html.DisplayFor(modelItem => item.Name)</strong></h4>
+            </div>
+        </div>
+
+        <div class="row" style="padding-left:35px">
+            <div class="col-md-2" style="font-size:smaller">
+                @Html.DisplayFor(modelItem => item.Created)
+            </div>
+            <div class="col-md-4" style="font-size:smaller">
+                <strong>Deadline: @Html.DisplayFor(modelItem => item.Deadline)</strong>
+            </div>
+
+
+            <div class="col-md-2 col-md-offset-8">
+                @*<a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |*@
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </div>
+        </div>
+
+        <div class="row" style="padding-top:20px; padding-left:35px">
+            <div class="col-md-12">
+                @Html.Raw(item.TextArea)
+            </div>
+        </div>
+
+    </div>
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@*@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Created)
+            </td>
+            <td>
+                @Html.Raw(item.TextArea)
+            </td>
+
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}*@
+
